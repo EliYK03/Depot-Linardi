@@ -13,5 +13,5 @@ tree.
 
 Le TP.1 est disponible dans la Branche "BrancheTP1"
 
-Le TP.2 est disponible dans la Branche "Main"
+Le TP.2 est disponible dans la Branche  "Main"
 Le Site du tp.2 est disponible sur ce Github: https://github.com/Lalalyra/TP2-EVEN-BAUDOIN-BENDJEBARA.git
